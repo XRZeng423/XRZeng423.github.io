@@ -15,4 +15,4 @@ We explore the effects of physical and regulatory risks from biodiversity loss o
 
 <strong>Reference:</strong> Giglio, Stefano and Kuchler, Theresa and Stroebel, Johannes and Zeng, Xuran, Biodiversity Risk (April 1, 2023). Available at <a target="_blank" href="https://pages.stern.nyu.edu/~jstroebe/">NBER</a>
 
-<strong>Survey:</strong> We run a survey to explore perceptions of biodiversity risk among academics and professionals and we publish the industry-level biodiversity risk exposure once a year. Please <a target="_blank" href="https://nyu.qualtrics.com/jfe/form/SV_8cXhgEcbm8bP54i?Q_DL=Vib1IkknPX3J2ou_8cXhgEcbm8bP54i_CGC_Jfp4KqjBevCJbGd&Q_CHL=email"> take a moment </a> to participate
+<strong>Survey:</strong> We run a survey to explore perceptions of biodiversity risk among academics and professionals and we publish the industry-level biodiversity risk exposure once a year. Please <a target="_blank" href="https://nyu.qualtrics.com/jfe/form/SV_8cXhgEcbm8bP54i?Q_DL=Vib1IkknPX3J2ou_8cXhgEcbm8bP54i_CGC_Jfp4KqjBevCJbGd&Q_CHL=email"> take a moment </a> to participate/
